@@ -628,7 +628,7 @@ section .container {
 }
 
 .credits p {
-  position: fixed;
+/*   position: fixed; */
   left: 30px;
   right: 100px;
   bottom: 5px;
